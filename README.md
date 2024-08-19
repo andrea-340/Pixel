@@ -2,7 +2,7 @@
 Questa è la prima volta che realizzo un progetto con Javascript! 🚀
 👉 [introduzione](https://github.com/user-attachments/files/16662831/Pixel.pdf)
 👉 [gioco](https://andrea-340.github.io/Pixel/)
-👉 []
+👉 [Netfly](https://66c363b002bc90158038e6b3--genuine-semifreddo-11ecf9.netlify.app/)
 
 REGOLE DEL GIOCO 📖
 queste sono le istruzioni del counter. ogni 10 click sulla più il pixel va avanti di 70 passi , e premendo il meno si ritorna indietro e premendo il reset si ritorna alla situzione iniziale.
