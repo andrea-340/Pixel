@@ -1,6 +1,6 @@
 # Pixel
 Questa è la prima volta che realizzo un progetto con Javascript! 🚀
-👉 [introduzione]([Pixel.pdf](https://github.com/user-attachments/files/16662816/Pixel.pdf)
+👉 [introduzione](file:///Users/andreaaltomare/Desktop/Pixel.pdf)
 👉 [gioco](https://andrea-340.github.io/Pixel/)
 👉 []
 
