@@ -1,6 +1,6 @@
 # Pixel
 Questa è la prima volta che realizzo un progetto con Javascript! 🚀
-👉 [introduzione](https://www.canva.com/design/DAGOT34Y2r4/o75M0lu7HO_smMkez8-p0g/edit?utm_content=DAGOT34Y2r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+👉 [introduzione]([Pixel.pdf](https://github.com/user-attachments/files/16662816/Pixel.pdf)
 👉 [gioco](https://andrea-340.github.io/Pixel/)
 👉 []
 
