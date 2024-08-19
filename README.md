@@ -18,6 +18,8 @@ queste sono le istruzioni del counter. ogni 10 click sulla più il pixel va avan
 |--🌐index.html
 ⤵️ Anteprima dispositivi
 ANTEPRIMA
+<img width="1202" alt="Screenshot 2024-08-19 alle 18 25 19" src="https://github.com/user-attachments/assets/41988045-e9aa-420d-9eb2-5cf02e4788bc">
+
 🔧 Come ho costruito  Pixel
 Strumenti e tecnologie utilizzate
 
