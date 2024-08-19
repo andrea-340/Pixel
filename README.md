@@ -30,11 +30,12 @@ Git: Per rendere il progetto pubblico a tutti.
 
 🚀 Come eseguire il progetto scaricare tutte le repository riportare tutto sul desktop e aprire il file index. per la modifica del codice apri la cartella con visual studio e vi riporta tutto sull'area di lavoro
 
-🌐 Contatti LinkedIn
+🌐 Contatti 
+LinkedIn
 
-.instagram
+instagram
 
-.E-mail : altomareandrea29@gmail.com
+E-mail : altomareandrea29@gmail.com
 
 🙌 Grazie per la visita!
 
