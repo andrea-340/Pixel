@@ -1,0 +1,171 @@
+@media all and (max-width: 1690px) {
+    .box1{
+        position: relative;
+        left: 0px;
+    }
+    .box2{
+        position: relative;
+        right: 790px;
+        top: -170px;
+    }
+    .box3{
+        position: relative;
+        right: 690px;
+        top: -170px;
+    }
+    .box4{
+        position: relative;
+        right: 740px;
+        top: -170px;
+    }
+    .box5{
+        position: relative;
+        top: -230px;
+    }
+}
+@media all and (max-width: 1280px) { 
+    .box1{
+        position: relative;
+        left: 0px;
+    }
+    .box2{
+        position: relative;
+        right: 790px;
+        top: -170px;
+    }
+    .box3{
+        position: relative;
+        right: 690px;
+        top: -170px;
+    }
+    .box4{
+        position: relative;
+        right: 740px;
+        top: -170px;
+    }
+    .box5{
+        position: relative;
+        top: -230px;
+    }
+}
+@media all and (max-width: 736px) {
+    .box1{
+        position: relative;
+        left: 0px;
+    }
+    .box2{
+        position: relative;
+        right: 790px;
+        top: -170px;
+    }
+    .box3{
+        position: relative;
+        right: 690px;
+        top: -170px;
+    }
+    .box4{
+        position: relative;
+        right: 740px;
+        top: -170px;
+    }
+    .box5{
+        position: relative;top: -230px;
+    }
+}
+@media all and (max-width: 480px) {
+    .box1{
+        position: relative;
+        left: 0px;
+    }
+    .box2{
+        position: relative;
+        right: 790px;
+        top: -170px;
+    }
+    .box3{
+        position: relative;
+        right: 690px;
+        top: -170px;
+    }
+    .box4{
+        position: relative;
+        right: 740px;
+        top: -170px;
+    }
+    .box5{
+        position: relative;
+        top: -230px;
+    }
+}
+@font-face {
+    font-family: 'Pixel Emulator';
+    src: url('path/to/pixel_emulator.woff2') format('woff2'),
+         url('path/to/pixel_emulator.woff') format('woff');
+}
+
+body {
+    font-family: 'Pixel Emulator', monospace;
+}
+
+#h1{
+    background-color: #ffffff7b;
+    border-radius: 20px;
+}
+#button1{
+    background-color: #ffffff7b; /* Colore di sfondo */
+    border: none; /* Rimuove il bordo */
+    color: white; /* Colore del testo */
+    text-align: center; /* Allineamento del testo */
+    text-decoration: none; /* Rimuove la sottolineatura */
+    display: inline-block; /* Mostra il bottone in linea */
+    font-size: 76px; /* Dimensione del testo */
+    margin: 4px 2px; /* Margine (spazio esterno) */
+    border-style: groove;
+    position: relative;left: 730px;top: 330px;
+            
+}
+#reset{
+    background-color: #ffffff7b; /* Colore di sfondo */
+    border: none; /* Rimuove il bordo */
+    color: white; /* Colore del testo */
+    text-align: center; /* Allineamento del testo */
+    text-decoration: none; /* Rimuove la sottolineatura */
+    display: inline-block; /* Mostra il bottone in linea */
+    font-size: 36px; /* Dimensione del testo */
+    margin: 4px 2px; /* Margine (spazio esterno) */
+    border-style: groove;
+    position: relative;left: 850px;top: 330px;
+}
+
+#button{
+    background-color: #ffffff7b; /* Colore di sfondo */
+            border: none; /* Rimuove il bordo */
+            color: rgb(147, 70, 70); /* Colore del testo */
+            text-align: center; /* Allineamento del testo */
+            text-decoration:none; /* Rimuove la sottolineatura */
+            display: inline-block; /* Mostra il bottone in linea */
+            font-size: 76px; /* Dimensione del testo */
+            margin: 4px 2px; /* Margine (spazio esterno) */
+            border-style: groove;
+            position: relative;left: 1030px;top: 450px;
+}
+#counter{
+    background-color:#0606b8ba;
+    border:#193e83dd; /* Rimuove il bordo */
+    color: rgb(255, 235, 235); /* Colore del testo */
+    text-align: center; /* Allineamento del testo */
+    text-decoration:none; /* Rimuove la sottolineatura */
+    display: inline-block; /* Mostra il bottone in linea */
+    font-size: 36px; /* Dimensione del testo */
+    margin: 9px 10px; /* Margine (spazio esterno) */
+    border-radius: 3px;
+    border-style:groove;
+    border-width: 40px;
+    align-self: center;
+
+}
+
+.jump {
+    animation: jump 0,8s ease;
+}
+
