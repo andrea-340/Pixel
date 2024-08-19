@@ -30,30 +30,17 @@ JavaScript: Per aggiungere al counter più interattività.
 Git: Per rendere il progetto pubblico a tutti.
 
 🚀 Come eseguire il progetto
-Clone the repository:
-
-Bash e copia il codice
-
-clonare
-
-Aprire il progetto in Visual Studio Code
-
-Bash e copia il codice
-
-Codifica e visualizza il tuo MINI-GIOCO
-
-Apri il file index.html nel tuo browser preferito
-
-Modifica e personalizza
-
-Modifica i dettagli nel file index.html per riflettere la tua personalità e le tue competenze.
+scaricare tutte le repository
+riportare tutto sul desktop
+e aprire il file index.
+per la modifica del codice apri la cartella con visual studio e vi riporta tutto sull'area di lavoro
 
 🌐 Contatti
-LinkedIn :
+[LinkedIn](https://www.linkedin.com/in/andrea-altomare-a76b13280/)
 
-Italiano: 
+[instagram](https://www.instagram.com/_andrea34_00?igsh=azVuejNkZ3B6bng%3D&utm_source=qr)
 
-E-mail : 
+E-mail : altomareandrea29@gmail.com
 
 🙌 Grazie per la visita!
 
