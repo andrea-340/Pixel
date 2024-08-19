@@ -6,12 +6,12 @@ Questa è la prima volta che realizzo un progetto con Javascript!
 👉 [Netfly](https://66c363b002bc90158038e6b3--genuine-semifreddo-11ecf9.netlify.app/)
 REGOLE DEL GIOCO 📖 queste sono le istruzioni del counter. ogni 10 click sulla più il pixel va avanti di 70 passi , e premendo il meno si ritorna indietro e premendo il reset si ritorna alla situzione iniziale. 📂la struttura della cartella
 
-|--📁risorse 
-|--|--✨stili 
-|--|--📃documento 
-|--|--🏞️img 
-|--|--⚙️js 
-|--|--⚙️css 
+|-📁risorse 
+|--✨stili 
+|--📃documento 
+|--🏞️img 
+|--⚙️js 
+|--⚙️css 
 |--📖README.md 
 |--🌐index.html 
 ⤵️ Anteprima 
