@@ -2,7 +2,7 @@ Pixel
 
 Questa è la prima volta che realizzo un progetto con Javascript!
 👉 [introduzione](https://github.com/andrea-340/Pixel/blob/ff50239c0bd104dadbcd7bae0ea54c1fa1761472/presentazione/Pixel.pdf)
-👉 [gioco](https://andrea-340.github.io/Pixel/)
+👉 [gioco](https://andrea-340.github.io/Progetto-JavaScript-Basics-di-Andrea-Altomare/)
 👉 [Netfly](https://66c363b002bc90158038e6b3--genuine-semifreddo-11ecf9.netlify.app/)
 REGOLE DEL GIOCO 📖 "Queste sono le istruzioni del contatore. Ogni 10 click sul pulsante 'più', il pixel avanza di 70 passi; premendo il pulsante 'meno', si torna indietro, e premendo 'reset', si ritorna alla situazione iniziale" 📂la struttura della cartella
 
