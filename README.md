@@ -1,7 +1,7 @@
 Pixel
 
 Questa è la prima volta che realizzo un progetto con Javascript!
-👉 [introduzione](https://viewscreen.githubusercontent.com/view/pdf?browser=safari&bypass_fastly=true&color_mode=auto&commit=c9076207b76ef52bf74e7ed300edfc597a0a53db&device=unknown_device&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f616e647265612d3334302f506978656c2f633930373632303762373665663532626637346537656433303065646663353937613061353364622f70726573656e74617a696f6e652f506978656c2e706466&logged_in=false&nwo=andrea-340%2FPixel&path=presentazione%2FPixel.pdf&platform=mac&repository_id=844589437&repository_type=Repository&version=17#fac90b66-3016-46f9-824f-9029b914f132)
+👉 [introduzione](https://github.com/andrea-340/Pixel/blob/ff50239c0bd104dadbcd7bae0ea54c1fa1761472/presentazione/Pixel.pdf)
 👉 [gioco](https://andrea-340.github.io/Pixel/)
 👉 [Netfly](https://66c363b002bc90158038e6b3--genuine-semifreddo-11ecf9.netlify.app/)
 REGOLE DEL GIOCO 📖 "Queste sono le istruzioni del contatore. Ogni 10 click sul pulsante 'più', il pixel avanza di 70 passi; premendo il pulsante 'meno', si torna indietro, e premendo 'reset', si ritorna alla situazione iniziale" 📂la struttura della cartella
