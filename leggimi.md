@@ -31,11 +31,22 @@ JavaScript: Per aggiungere al counter più interattività.
 
 Git: Per rendere il progetto pubblico a tutti.
 
-🚀 Come eseguire il progetto
-scaricare tutte le repository
-riportare tutto sul desktop
-e aprire il file index.
-per la modifica del codice apri la cartella con visual studio e vi riporta tutto sull'area di lavoro
+🚀 Come Eseguire il Progetto
+Per eseguire il progetto Pixel e vedere il contatore in azione, segui questi semplici passaggi:
+
+1)Scarica la repository: Vai alla pagina del progetto su GitHub e scarica l'intera repository come file ZIP oppure clonala direttamente sul tuo computer usando Git:(git clone https://github.com/andrea-340/Pixel.git)
+2)Estrai i file: Se hai scaricato il file ZIP, estrai il contenuto in una cartella sul tuo desktop o in una posizione a tua scelta.
+3)Apri il progetto in Visual Studio Code:
+Avvia Visual Studio Code (o un altro editor di codice di tua preferenza).
+Vai su File > Apri Cartella e seleziona la cartella che contiene i file estratti.
+4)Avvia il progetto:
+Individua il file index.html all'interno della cartella principale.
+Fai doppio clic sul file index.html per aprirlo nel tuo browser predefinito, oppure fai clic destro su index.html in Visual Studio Code e seleziona "Apri con Live Server" (se hai installato l'estensione Live Server).
+5)Interagisci con il contatore:
+Usa i pulsanti "più" e "meno" per vedere il pixel avanzare e tornare indietro.
+Usa il pulsante "reset" per riportare il contatore alla situazione iniziale.
+
+Nota: Se vuoi modificare il codice sorgente, puoi farlo direttamente in Visual Studio Code. Una volta apportate le modifiche, aggiorna la pagina nel browser per vedere i cambiamenti in tempo reale.
 
 🌐 Contatti
 [-LinkedIn](https://www.linkedin.com/in/andrea-altomare-a76b13280/)
