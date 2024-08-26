@@ -80,7 +80,7 @@ body {
 
 /* Media queries per la responsività */
 @media all and (max-width: 1690px) {
-    .box1 { position: relative; left: 0; }
+    .box1 { position: relative; left: -180px; }
     .box2 { position: relative; right: 790px; top: -170px; }
     .box3 { position: relative; right: 690px; top: -170px; }
     .box4 { position: relative; right: 740px; top: -170px; }
@@ -88,7 +88,7 @@ body {
 }
 
 @media all and (max-width: 1280px) {
-    .box1 { position: relative; left: 0; }
+    .box1 { position: relative; left: -180px; }
     .box2 { position: relative; right: 790px; top: -170px; }
     .box3 { position: relative; right: 690px; top: -170px; }
     .box4 { position: relative; right: 740px; top: -170px; }
@@ -96,9 +96,45 @@ body {
 }
 
 @media all and (max-width: 480px) {
-    .box1 { position: relative; left: 0; }
+    .box1 { position: relative; left: -180px; }
     .box2 { position: relative; right: 790px; top: -170px; }
     .box3 { position: relative; right: 690px; top: -170px; }
     .box4 { position: relative; right: 740px; top: -170px; }
     .box5 { position: relative; top: -230px; }
 }
+
+@media (min-width: 600px) { 
+    .box1 { position: relative; left: -180px; }
+    .box2 { position: relative; right: 790px; top: -170px; }
+    .box3 { position: relative; right: 690px; top: -170px; }
+    .box4 { position: relative; right: 740px; top: -170px; }
+    .box5 { position: relative; top: -230px; }
+ }
+@media (max-height: 800px) {
+    .box1 { position: relative; left: -180px; }
+    .box2 { position: relative; right: 790px; top: -170px; }
+    .box3 { position: relative; right: 690px; top: -170px; }
+    .box4 { position: relative; right: 740px; top: -170px; }
+    .box5 { position: relative; top: -230px; }
+ }
+@media (min-device-width: 320px) { 
+    .box1 { position: relative; left: -180px; }
+    .box2 { position: relative; right: 790px; top: -170px; }
+    .box3 { position: relative; right: 690px; top: -170px; }
+    .box4 { position: relative; right: 740px; top: -170px; }
+    .box5 { position: relative; top: -230px; }
+ }
+@media (max-device-height: 768px) { 
+    .box1 { position: relative; left: -180px; }
+    .box2 { position: relative; right: 790px; top: -170px; }
+    .box3 { position: relative; right: 690px; top: -170px; }
+    .box4 { position: relative; right: 740px; top: -170px; }
+    .box5 { position: relative; top: -230px; }
+}
+@media (min-device-width: 375px) { 
+    .box1 { position: relative; left: -0px; }
+    .box2 { position: relative; right: 790px; top: -170px; }
+    .box3 { position: relative; right: 690px; top: -170px; }
+    .box4 { position: relative; right: 740px; top: -170px; }
+    .box5 { position: relative; top: -230px; }
+ }
